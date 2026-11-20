@@ -1,0 +1,5 @@
+*.exe
+*.o
+_tmp/
+_frames/
+
